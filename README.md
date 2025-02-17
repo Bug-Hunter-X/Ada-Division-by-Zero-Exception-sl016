@@ -1,0 +1,1 @@
+This repository contains an example of a common error in Ada programming: division by zero.  The example demonstrates how to handle this exception using Ada's exception handling mechanism. The `bug.ada` file shows the erroneous code that leads to the division by zero, while `bugSolution.ada` provides a corrected version that gracefully handles the potential error.
